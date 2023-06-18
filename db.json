@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "firstname": "Dharam",
+      "firstname": "Shatrughan",
       "lastname": "Kumar",
       "dateOfBirth": "1990-05-15",
-      "email": "dharam@gmail.com",
+      "email": "shatru@gmail.com",
       "password": "123",
       "medications": [1]
     }
@@ -14,9 +14,9 @@
     {
       "id": 1,
       "userId": 1,
-      "medicine": "Medication 1",
+      "medicine": "Sinarest",
       "medicineForm": "Pill",
-      "healthCondition": "Treatment for high blood pressure",
+      "healthCondition": "Treatment for cold",
       "startDate": "2023-06-01",
       "days": ["mon", "tues"],
       "frequency": "2 times daily",
